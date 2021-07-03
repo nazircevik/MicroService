@@ -10,8 +10,6 @@ C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Service
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.csprojAssemblyReference.cache
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.AssemblyInfoInputs.cache
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.AssemblyInfo.cs
-C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.csproj.CoreCompileInputs.cache
-C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.RazorTargetAssemblyInfo.cache
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\staticwebassets\FreeCourse.Services.Catolog.StaticWebAssets.Manifest.cache
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\staticwebassets\FreeCourse.Services.Catolog.StaticWebAssets.xml
