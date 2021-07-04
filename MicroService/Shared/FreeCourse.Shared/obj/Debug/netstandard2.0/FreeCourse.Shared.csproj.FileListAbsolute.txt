@@ -1,0 +1,5 @@
+C:\Users\HP\github\MicroService\MicroService\Shared\FreeCourse.Shared\bin\Debug\netstandard2.0\FreeCourse.Shared.deps.json
+C:\Users\HP\github\MicroService\MicroService\Shared\FreeCourse.Shared\bin\Debug\netstandard2.0\FreeCourse.Shared.dll
+C:\Users\HP\github\MicroService\MicroService\Shared\FreeCourse.Shared\obj\Debug\netstandard2.0\FreeCourse.Shared.csprojAssemblyReference.cache
+C:\Users\HP\github\MicroService\MicroService\Shared\FreeCourse.Shared\obj\Debug\netstandard2.0\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\HP\github\MicroService\MicroService\Shared\FreeCourse.Shared\obj\Debug\netstandard2.0\FreeCourse.Shared.AssemblyInfo.cs
