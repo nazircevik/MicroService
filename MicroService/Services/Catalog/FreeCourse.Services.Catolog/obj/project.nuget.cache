@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rTv8dtjc6gqYa25i9rjv7ZHkYA9n7Le6UkiUhaojOJ5ZWjW69MAyOoWKs6uceON+nxo9zV5f8NpcAlOwD5UWkg==",
+  "dgSpecHash": "/jjwDqC2A0miyDvDFn36ATDh6C3xsnzt+37lcl/e30QEZHj0EFLUP6LUEJ2HcDdHXhdng0y1R1BotVTjOkTO/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\github\\MicroService\\MicroService\\Services\\Catalog\\FreeCourse.Services.Catolog\\FreeCourse.Services.Catolog.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\mongodb.driver\\2.12.4\\mongodb.driver.2.12.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mongodb.driver.core\\2.12.4\\mongodb.driver.core.2.12.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
