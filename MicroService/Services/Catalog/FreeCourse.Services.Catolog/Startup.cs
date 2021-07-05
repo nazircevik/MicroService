@@ -38,6 +38,7 @@ namespace FreeCourse.Services.Catolog
                 
                 
                 });
+            services.AddSwaggerDocument();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -49,7 +50,8 @@ namespace FreeCourse.Services.Catolog
             }
 
             app.UseRouting();
-
+            app.UseOpenApi();
+            app.UseSwaggerUi3();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

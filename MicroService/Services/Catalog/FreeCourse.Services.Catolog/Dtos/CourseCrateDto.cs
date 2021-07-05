@@ -7,7 +7,7 @@ namespace FreeCourse.Services.Catolog.Dtos
 {
     public class CourseCrateDto
     {
-        public string Id { get; set; }
+       // public string Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
 

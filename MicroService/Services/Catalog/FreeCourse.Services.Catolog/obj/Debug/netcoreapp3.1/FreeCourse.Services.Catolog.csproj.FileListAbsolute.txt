@@ -40,3 +40,14 @@ C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Service
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\YamlDotNet.dll

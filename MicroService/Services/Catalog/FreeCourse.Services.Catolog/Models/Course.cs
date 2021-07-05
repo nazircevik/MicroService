@@ -19,8 +19,6 @@ namespace FreeCourse.Services.Catolog.Models
 
         public Feature Feature { get; set; }
 
-        [BsonId]
-        [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
         public string CategoryId { get; set; }
 
         [BsonIgnore]
