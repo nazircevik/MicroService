@@ -37,3 +37,6 @@ C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Service
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.MvcApplicationPartsAssemblyInfo.cs
