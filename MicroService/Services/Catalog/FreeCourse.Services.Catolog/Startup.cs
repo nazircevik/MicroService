@@ -28,6 +28,7 @@ namespace FreeCourse.Services.Catolog
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<ICategoryService,CategoryService>();
+            services.AddScoped<ICourseService, CourseService>();
             services.AddControllers();
             services.AddAutoMapper(typeof(Startup));
             services.Configure<DatabaseSettings>(Configuration.GetSection("DatabaseSettings"));

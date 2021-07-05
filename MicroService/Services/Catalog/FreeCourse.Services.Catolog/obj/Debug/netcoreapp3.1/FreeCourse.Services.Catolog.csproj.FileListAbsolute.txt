@@ -34,3 +34,6 @@ C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Service
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\scopedcss\bundle\FreeCourse.Services.Catolog.styles.css
 C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\obj\Debug\netcoreapp3.1\FreeCourse.Services.Catolog.csproj.CopyComplete
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Users\HP\github\MicroService\MicroService\Services\Catalog\FreeCourse.Services.Catolog\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
