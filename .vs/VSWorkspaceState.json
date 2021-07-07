@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\MicroService",
-    "\\MicroService\\IdentityServer",
-    "\\MicroService\\IdentityServer\\FreeCourse.IdentityServer"
+    ""
   ],
-  "SelectedNode": "\\MicroService\\IdentityServer\\FreeCourse.IdentityServer",
+  "SelectedNode": "\\MicroService.sln",
   "PreviewInSolutionExplorer": false
 }
